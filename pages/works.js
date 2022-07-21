@@ -20,7 +20,7 @@ Pagina para Agencia de desarrollo de software ofreciendo diferentes servicios co
                     </WorkGridItem>
                 </Section>
                 <Section>
-                    <WorkGridItem id="https://juapper.github.io/CountDownNewYear/" title="Nuevo año" thumbnail={Nuevo}>                    
+                    <WorkGridItem id="https://chrome.google.com/webstore/detail/contador-a%C3%B1o-nuevo/ocppkldabepkbjdejgjdlbnhccnodpdg/related" title="Nuevo año" thumbnail={Nuevo}>                    
 
                     Extensión que cambia Nueva pestaña mostrando un contador del tiempo restante para año nuevo, ayudando a la productividad de las personas para que recuerden sus objetivos.
 

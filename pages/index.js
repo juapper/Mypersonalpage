@@ -49,11 +49,11 @@ const Page = () => {
                 </BioSection>
                 <BioSection>
                 <BioYear>2021</BioYear>
-                Estudios en Platzi y en la Universidad Eafit en áreas de la tecnología.
+                Estudios en Platzi y en la Universidad Eafit en áreas de la tecnología, ha realizado trabajos como freelancer.
                 </BioSection>
                 <BioSection>
                 <BioYear>2022</BioYear>
-                Ha realizado trabajos como freelancer y está buscando un trabajo en tecnología.
+                Trabaja como frontend developer.
                 </BioSection>
                 <Section delay={0.3}>
                     <Heading as="h3" variant="section-title" mt={5}>
